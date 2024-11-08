@@ -30,18 +30,18 @@ Binary sensors available in the library:
 
 ### Chargers
 
-| Condition         | Description                |
-| :---------------- | :------------------------- |
-| state_e_activated | State machine E activated  |
-| overtemp          | Overtemperature            |
-| critical_temp     | Critical temperature       |
-| overcurrent       | Overcurrent                |
-| meter_fault       | Meter fault                |
-| undervoltage      | Undervoltage               |
-| overvoltage       | Overvoltage                |
-| rcd_error         | RCD error                  |
-| cp_diode_failure  | CP diode failure           |
-| contactor_failure | Contactor failure          |
+| Condition         | Description                          |
+| :---------------- | :----------------------------------- |
+| state_e_activated | Electric vehicle error               |
+| overtemp          | Overtemperature                      |
+| critical_temp     | Critical temperature                 |
+| overcurrent       | Overcurrent                          |
+| meter_fault       | Meter fault                          |
+| undervoltage      | Undervoltage                         |
+| overvoltage       | Overvoltage                          |
+| rcd_error         | RCD error                            |
+| cp_diode_failure  | Electric vehicle communication error |
+| contactor_failure | Contactor failure                    |
 
 ## Sensors
 
