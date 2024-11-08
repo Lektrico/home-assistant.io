@@ -39,7 +39,7 @@ Binary sensors available in the library:
 | meter_fault       | Meter fault                          |
 | undervoltage      | Undervoltage                         |
 | overvoltage       | Overvoltage                          |
-| rcd_error         | RCD error                            |
+| rcd_error         | <abbr title="residual current device">RCD</abbr> error                            |
 | cp_diode_failure  | Electric vehicle communication error |
 | contactor_failure | Contactor failure                    |
 
